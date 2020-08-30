@@ -1,0 +1,17 @@
+1 
+house
+1
+home
+1
+homework
+1
+mountain
+4
+2
+mountain
+1
+homeworker
+4
+2
+homemaker
+-1
